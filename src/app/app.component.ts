@@ -16,7 +16,7 @@ export class AppComponent {
   title = 'videocall';
   loader: any;
   tokenDtail = {
-    apiKey: '47863071',
+    apiKey: '#########',
     sessionID: '2_MX40Nzg2MzA3MX5-MTcxMTQ1NTc2Mjg3NH4vRTZJNDJCNG9JVVlBUnl0MTN4dEtFOWF-fn4',
     token: 'T1==cGFydG5lcl9pZD00Nzg2MzA3MSZzaWc9OTkwNTdlNmM1NGRjNjA0MTEyYjk1MTgyOTZhNjE0NzZhYTY5YjMxMzpzZXNzaW9uX2lkPTJfTVg0ME56ZzJNekEzTVg1LU1UY3hNVFExTlRjMk1qZzNOSDR2UlRaSk5ESkNORzlKVlZsQlVubDBNVE40ZEV0Rk9XRi1mbjQmY3JlYXRlX3RpbWU9MTcxMTQ1NTc2NSZub25jZT0yNzg4NDYmcm9sZT1QVUJMSVNIRVImZXhwaXJlX3RpbWU9MTcxNDA0Nzc1NQ==',
     id: 1,
